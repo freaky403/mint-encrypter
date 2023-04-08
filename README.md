@@ -26,7 +26,7 @@ MintEncrypter uses a 2048-bit RSA key pair to encrypt the symmetric key. This pr
 ## Installation
 To use MintEncrypter, you need to clone the project from the repository:
 ```bash
-git clone https://github.com/freak403/mint-encrypter.git
+git clone https://github.com/freaky403/mint-encrypter.git
 ```
 Once you have cloned the repository, navigate to the project directory and run the following command:
 ```bash
